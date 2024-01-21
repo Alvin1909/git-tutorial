@@ -1,3 +1,3 @@
 console.log("config.js")
-console.log("version 11")
+console.log("New Version")
 console.log("Hello world")
